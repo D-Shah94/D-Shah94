@@ -8,22 +8,16 @@
 
 ## 👨‍💻 About Me
 
-Junior software engineer building on 2+ years of production engineering 
-experience at a FTSE 100 insurtech, currently completing the 
-**Northcoders Enterprise Engineering Bootcamp** (graduating June 2026).
-
-I write C# with a strict TDD-first approach, treating every line of 
-code as documentation for the next developer.
+Junior software engineer building on 2+ years of production engineering experience at a FTSE 100 Insurtech, currently completing the **Northcoders Enterprise Engineering Bootcamp** (graduating June 2026). I write C# with a strict TDD-first approach, treating every line of code as documentation for the next developer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core:** C# · .NET Framework · ASP.NET MVC · Entity Framework  
-**Testing:** TDD · NUnit · Moq · Test Pyramid  
+**Core:** C# · .NET Framework · ASP.NET Core · MVC · Entity Framework  
+**Testing:** TDD (NUnit/Moq) · Red-Green-Refactor · Test Pyramid  
 **Database:** Microsoft SQL Server · T-SQL · ADO.NET  
-**Frontend:** HTML · CSS · DOM · Blazor  
-**Cloud & DevOps:** AWS (S3, Lambda) · Git/GitHub · CI/CD  
+**Cloud & DevOps:** AWS (S3, Lambda) · Git/GitHub · CI/CD · Docker  
 **Monitoring:** Splunk · Grafana · Apache Kafka  
 **Methods:** OOP · LINQ · Async C# · Code Design Patterns · Agile  
 
@@ -33,16 +27,16 @@ code as documentation for the next developer.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Mars Rover](https://github.com/D-Shah94/csharp-mars-rover) | Grid navigation simulation built TDD-first | C# · NUnit · OOP |
-| *More coming June 2026* | Northcoders final projects | C# · ASP.NET · SQL |
+| [Mars Rover Simulation](https://github.com/D-Shah94/csharp-mars-rover) | Layered-architecture rover navigation built strictly TDD-first with full NUnit coverage | C# · .NET · NUnit · TDD |
+| [Record Shop API](https://github.com/D-Shah94/Record-Shop-API-Mini-Project) | RESTful API for record inventory management using MVC, Entity Framework, and full TDD coverage | C# · ASP.NET Core · SQL Server · NUnit |
 
 ---
 
-## 📈 Currently Building
+## 📈 Currently
 
-- 🔭 Working on: Enterprise C# projects at Northcoders
-- 🌱 Learning: ASP.NET Core · Entity Framework · Blazor
-- 💡 Interested in: Clean Architecture · Systems Design · TDD at scale
+- 🔭 Building: Production-quality C#/.NET applications at Northcoders
+- 🌱 Practising: ASP.NET Core · Entity Framework · Clean Architecture · TDD at scale
+- 💡 Interested in: Systems Design · Code Design Patterns · Maintainable codebases
 - 📫 Open to: Junior Software Engineer roles in London / Remote (UK)
 
 ---
