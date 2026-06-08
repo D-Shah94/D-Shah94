@@ -29,7 +29,7 @@ Junior software engineer building on 2+ years of production engineering experien
 Grid navigation simulation built strictly TDD-first with full NUnit coverage. Layered architecture separating Domain, Input, Logic, and UI layers.  
 `C# · .NET · NUnit · OOP`
 
-**[Record Shop API](https://github.com/D-Shah94/Record-Shop-API-Mini-Project)**  
+**[Record Shop API](https://github.com/D-Shah94/RecordShopAPI)**  
 RESTful CRUD API for record inventory using MVC, Entity Framework, and Repository Pattern, with full test coverage via NUnit and Moq.  
 `C# · ASP.NET Core · SQL Server · NUnit · Moq`
 
