@@ -14,15 +14,15 @@ Junior software engineer building on 2+ years of production engineering experien
 
 ## 🛠️ Tech Stack
 
-**Core:** C# · .NET Framework · ASP.NET Core · MVC · Entity Framework
-**Full-Stack:** JavaScript · Node.js · Express · React · Vite · PostgreSQL
-**Testing:** TDD (NUnit/Moq) · Vitest · Red-Green-Refactor · Test Pyramid
-**Database:** Microsoft SQL Server · T-SQL · ADO.NET 
-**Cloud & DevOps:** AWS (S3, EC2) · Oracle Cloud · Docker · Git/GitHub · CI/CD
-**Monitoring:** Splunk · Grafana · Apache Kafka
-**Auth:** bcrypt · JWT · CORS
-**AI Tools:** Claude CLI · GitHub Copilot · Ollama
-**Methods:** OOP · LINQ · Async C# · Code Design Patterns · Agile
+**Core:** C# · .NET Framework · ASP.NET Core · MVC · Entity Framework  
+**Full-Stack:** JavaScript · Node.js · Express · React · Vite · PostgreSQL  
+**Testing:** TDD (NUnit/Moq) · Vitest · Red-Green-Refactor · Test Pyramid  
+**Database:** Microsoft SQL Server · T-SQL · ADO.NET  
+**Cloud & DevOps:** AWS (S3, EC2) · Oracle Cloud · Docker · Git/GitHub · CI/CD  
+**Monitoring:** Splunk · Grafana · Apache Kafka  
+**Auth:** bcrypt · JWT · CORS  
+**AI Tools:** Claude CLI · GitHub Copilot · Ollama  
+**Methods:** OOP · LINQ · Async C# · Code Design Patterns · Agile  
 
 ---
 
