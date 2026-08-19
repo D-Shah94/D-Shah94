@@ -98,14 +98,4 @@ Grid navigation simulation built strictly TDD-first. Layered architecture separa
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=D-Shah94&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 *"Write code for the person who maintains it — not just the compiler."*
